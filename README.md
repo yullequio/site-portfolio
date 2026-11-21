@@ -16,3 +16,14 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador)
+
+> Este é um blockquote
+>
+>Segunda área destacada
+
+
+
+**Comando para rodar o projeto:**
+```
+npm start
+```
