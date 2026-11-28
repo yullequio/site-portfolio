@@ -1,5 +1,11 @@
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
+
+[Bem Vindo](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#módulos) |
+[Rede Social](#rede-social) |
+[Comandos](#comando-para-rodar-o-projeto)
+
 #  Bem vindo ao curso Git e GitHub
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional_.
 
@@ -7,6 +13,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 - [x] Site responsivo
 - [ ] Login com Facebook
 - [ ] Página sobre a empresa
+
 
 ## Módulos:
 * Começando com GIT
@@ -19,13 +26,13 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 2. Aprendendo sobre branches
 3. GIT avançado
 
+
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador)
 
 > Este é um blockquote
 >
 >Segunda área destacada
-
 
 
 ### Comando para rodar o projeto:
