@@ -32,3 +32,18 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 ```
 npm start
 ```
+
+```html
+<h1>
+    Título
+    <span>Curso Git</span>
+</h1>
+```
+
+
+Propriedade | Descrição
+----------- |-----------
+name | Para informar o nome do usuário
+Size | Para definir o tamanho do campo
+background | Cor de fundo da área em HEX
+onPress | Função chamada quando clicar no botão
